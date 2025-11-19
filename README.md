@@ -75,7 +75,6 @@ This script will:
 *   `improved_sp500_model.py`: Main application logic containing data fetching, preprocessing, model architecture, and training loops.
 *   `setup_and_run.py`: Wrapper script for easy setup and execution.
 *   `requirements.txt`: List of Python dependencies.
-*   `final.md`: Detailed project report, including methodology, accuracy analysis, and future roadmap.
 *   `headlines.json`: Caches fetched news headlines for sentiment analysis.
 
 ## ⚠️ Disclaimer
