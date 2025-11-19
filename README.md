@@ -77,6 +77,10 @@ This script will:
 *   `requirements.txt`: List of Python dependencies.
 *   `headlines.json`: Caches fetched news headlines for sentiment analysis.
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## ⚠️ Disclaimer
 
 **This software is for educational and research purposes only.** Do not use this model as the sole basis for financial decisions. Stock market prediction is inherently uncertain, and past performance is not indicative of future results.
