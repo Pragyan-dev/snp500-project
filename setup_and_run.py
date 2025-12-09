@@ -5,12 +5,12 @@ import importlib
 import time
 
 # Set API keys as environment variables
-os.environ["FRED_API_KEY"] = "03e9a6eaab13f8613caa3b5328aba7d8"
-os.environ["REDDIT_CLIENT_SECRET"] = "bhQUA73aqC02epI1NVXqlZ812b2VYg"
-os.environ["GEMINI_API_KEY"] = "AIzaSyAAvw76baB5ToMJnhr0dM9il4AzOO9Ap2M"
+os.environ["FRED_API_KEY"] = "Enter Your Fred api key"
+os.environ["REDDIT_CLIENT_SECRET"] ="enter your reddit key"
+os.environ["GEMINI_API_KEY"] = "Enter your gemini key"
 
 # For Reddit API, set the client ID
-os.environ["REDDIT_CLIENT_ID"] = "7l5Oal5SA-oK8UL7rLBAng"
+os.environ["REDDIT_CLIENT_ID"] = "Enter your reddit client id"
 
 print("API keys set as environment variables")
 
